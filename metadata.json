@@ -1,0 +1,6 @@
+{
+  "name": "Velvet & Crumb Artisanal Pâtisserie",
+  "description": "Handcrafted celebration cakes, bespoke wedding tiers, and botanical gateaux baked fresh with organic ingredients and French technique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
